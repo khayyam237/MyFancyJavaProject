@@ -18,11 +18,7 @@ interface Shape
 
 class Circle implements Shape
 {
-	 @Override
-	 public void draw()
-	 {
-		 System.out.println("a circle drawn");
-	 }
+	 
 }
 
 
