@@ -1,4 +1,3 @@
-
 package myfancyjavaproject;
 
 public class MyFancyJavaProject {
